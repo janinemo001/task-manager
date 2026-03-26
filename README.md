@@ -37,7 +37,7 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 
 ```bash
 git clone https://github.com/janinemo001/task-manager.git
-cd task-manager-api
+cd task-manager
 ```
 
 ---
