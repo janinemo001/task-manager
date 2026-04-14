@@ -36,8 +36,8 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 ### 🔹 Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/task-manager-api.git
-cd task-manager-api
+git clone https://github.com/janinemo001/task-manager.git
+cd task-manager
 ```
 
 ---
